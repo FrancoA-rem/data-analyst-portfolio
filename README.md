@@ -1,31 +1,22 @@
-# 📊 Portafolio de Analista de Datos – Franco Agustín Abrego
+# 🎬 Análisis de Películas con SQL 🎬
 
-Este repositorio contiene mis proyectos de práctica como analista de datos en formación. A lo largo del tiempo iré incorporando proyectos con distintas herramientas como Excel, SQL, Tableau, Python y más.
+Este proyecto explora una base de datos ficticia de películas utilizando PostgreSQL. Se realizaron consultas SQL para analizar géneros, directores, duración promedio y calificaciones. El objetivo es mostrar habilidades en manipulación y análisis de datos con SQL puro.
 
-## 🔧 Tecnologías y herramientas utilizadas
+## Archivos incluidos
 
-- Microsoft Excel
+- `base_peliculas.sql`: Script para crear la tabla `peliculas` e insertar 20 registros de películas variadas.
+- `consultas_peliculas.sql`: Archivo con consultas SQL para responder preguntas de análisis.
+
+## Tecnologías utilizadas
+
 - PostgreSQL
-- SQL
-- Power BI / Tableau (próximamente)
-- Python (próximamente)
+- SQL (SELECT, WHERE, AVG, GROUP BY, ORDER BY, subconsultas)
 
-## 📁 Estructura del repositorio
+## Consultas realizadas
 
-- `EXCEL`: proyectos usando Microsoft Excel para análisis y visualización.
-- `SQL`: consultas SQL realizadas con PostgreSQL.
-- `DASHBOARD`: visualizaciones y dashboards.
-
----
-
-## ✅ Proyectos incluidos
-
-### 1. Análisis de ventas ficticias (Excel)
-> Un dashboard simple que muestra las ventas mensuales, los productos más vendidos y un resumen general.
-
-### 2. Consultas SQL sobre base de videojuegos de PS2
-> Dataset simulado con títulos, duración, géneros y calificaciones. Consultas para análisis exploratorio usando PostgreSQL.
-
----
-
-📌 *Este portafolio está en construcción y se actualizará con frecuencia.*
+1. Calificación promedio general
+2. Películas con calificación superior al promedio
+3. Director con mejor promedio de calificación
+4. Géneros con películas más largas en promedio
+5. Películas desde 2010 con calificación mayor a 8
+6. Duración promedio de todas las películas
