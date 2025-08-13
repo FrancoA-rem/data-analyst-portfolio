@@ -5,15 +5,15 @@ Este repositorio contiene mis proyectos de práctica como analista de datos en f
 ## Tecnologías y herramientas utilizadas
 
 - Microsoft Excel
-- PostgreSQL
 - SQL
 - Power BI (próximamente)
-- Python (próximamente)
+- Looker Studio
+- R/Python (próximamente)
 
 ## Estructura del repositorio
 
 - `excel`: proyectos usando Microsoft Excel para análisis y visualización.
-- `sql`: consultas SQL realizadas con PostgreSQL.
+- `sql`: consultas SQL realizadas con MySQL.
 
 ---
 
