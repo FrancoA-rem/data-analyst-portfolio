@@ -40,19 +40,18 @@ Se realizó la preparación de los datos en **Python (Pandas)** con los siguient
 ---
 
 ## ⚙️ Herramientas Utilizadas
-- **Python (Pandas)** → Limpieza de datos  
-- **Excel** → Exploración inicial  
-- **Looker Studio** → Dashboard interactivo  
+- **Python (Pandas)** → Preparación y transformación de datos    
+- **Looker Studio** → Diseño del Dashboard interactivo  
 
 ---
 
 ## 📸 Capturas del Dashboard
-![Dashboard de Ventas](ruta/imagen.png)
+![Dashboard de Ventas](dashboard_ventas-ProyVisualizacion.png)
 
 ---
 
 ## 🔗 Visualización del Dashboard
-👉 [Ver Dashboard en Looker Studio](ENLACE_A_TU_DASHBOARD)
+👉 [Ver Dashboard en Looker Studio](https://lookerstudio.google.com/reporting/f8c35eba-5bfa-4dfc-8c0c-6b5752627f7c)
 
 ---
 
@@ -61,9 +60,5 @@ Se realizó la preparación de los datos en **Python (Pandas)** con los siguient
 - Se definieron KPIs clave para el análisis de rendimiento de ventas  
 - Se desarrolló un dashboard interactivo y visualmente claro en Looker Studio  
 
----
-
-## 🚀 Próximos Pasos
-- Incluir segmentación dinámica por fechas  
-- Agregar filtros más avanzados (ej. top productos por categoría)  
+ 
 
