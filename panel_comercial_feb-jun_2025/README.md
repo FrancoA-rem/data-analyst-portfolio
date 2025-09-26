@@ -35,7 +35,7 @@ Se realizó la preparación de los datos en **Python (Pandas)** con los siguient
 ## 📊 Visualizaciones Incluidas
 - Evolución de Ventas a lo largo del tiempo  
 - Ventas por Producto  
-- Ventas por Categoría (gráfico de dona)  
+- Ventas por Categoría  
 
 ---
 
